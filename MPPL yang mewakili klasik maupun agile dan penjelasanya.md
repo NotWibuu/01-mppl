@@ -44,3 +44,29 @@ Ini merupakan tahap terakhir dalam model waterfall. Software yang sudah jadi dij
 
   * Menggunakan system
   Perangkat lunak yang telah diuji dan diterima pelanggan siap untuk digunakan
+
+## Extreme Programming Dan Agile
+
+Extreme Programming (XP) merupakan salah satu metode pengembangan software yang termasuk dalam Agile Software Development. XP menggunakan pendekatan object-oriented.
+
+Dalam XP, terdapat 5 nilai yang menjadi pondasi yaitu communication, simplicity, feedback, courage, dan respect. Komunikasi yang efektif antara pengembang perangkat lunak dan pihak-pihak yang terlibat sangatlah penting. Dalam XP, desain dijadikan kebutuhan intermediate. Desain dibuat sesederhana mungkin agar mudah mengimplementasikan code. Disini dapat terjadi perubahan struktur desain atau perubahan source code tanpa mengubah fungsi utamanya (refactoring). Feedback akan diberikan saat peningkatan dan pengimplementasian perangkat lunak.
+
+## Cara Kerja Extreme Programming :
+* Perencanaan XP: pengumpulan user stories dari klien yang klien tetapkan prioritasnya. Setiap story ditetapkan harga dan lama pembangunan, jika terlalu besar, story dapat dipecah menjadi beberapa story yang lebih kecil. Periksa dan pertimbangkan resiko
+* Desain XP berprinsip: sederhana memanfaatkan kartu CRC (Class-Responsibility-Collaborator) untuk identifikasi dan mengatur class-class di konsep OO. Jika temui kesulitan, prototype dibangun (ini namanya spike solution). Lakukan refactoring, yaitu mengembangkan desain dari program setelah ditulis.
+* Pengkodean XP: siapkan unit test sebelum pengkodean dipakai sebagai fokus pemrogram untuk membuat program. Pair programming dilakukan untuk real time program solving dan real time quality assurance
+* Pengujian XP: menggunakan unit test yang dipersiapkan sebelum pengkodean
+
+## Scrum Model
+
+Scrum Pada dasarnya merupakan salah satu komponen dari metodologi pengembangan sistem Agile . Akhir-akhir ini scrum mulai marak di implemntasikan di perusahaan IT di Indonesia, dikarenakan maraknya perusahaan IT mengimplementasikan agile development. Scrum menguraikan proses untuk mengidentifikasi dan katalogisasi pekerjaan yang perlu dilakukan, memprioritaskan yang bekerja dengan berkomunikasi dengan pelanggan atau wakil pelanggan, dan pelaksanaan yang bekerja menggunakan rilis iterative dan memiliki tujuan utama untuk mendapatkan perkiraan berapa lama development akan dilakukan.
+Scrum merupakan suatu kerangka kerja. Jadi, bukannya menyediakan deskripsi rinci tentang bagaimana segala sesuatu yang harus dilakukan pada proyek seperti diserahkan kepada tim pengembangan perangkat lunak pada umumnya. Hal ini dilakukan supaya tim akan tahu bagaimana cara terbaik untuk memecahkan masalah
+Element-Element dalam Scrum
+
+Ada 3 elemen organisasi utama pada scrum yaitu product owner, Scrum master, dan the Scrum team.
+* Product Owner mewakili bisnis, pelanggan atau pengguna dan memandu tim ke arah pegembangan produk yang tepat.
+*  Scrum Master dapat dianggap sebagai pemersatu bagi product owner dan scrum team (developer, QA, technical wirter dll), membantu anggota tim menggunakan kerangka Scrum untuk menyelesaikan suatu project berdasarkan timeline yang ditentukan di awal.
+*  Scrum Team merupakan grup pengembang kecil biasanya terdiri dari 5-9 orang. Untuk projek yang sangat besar, pekerjaan biasanya dibagi dan didelegasikan ke grup-grup kecil
+Scrum tepat digunakan saat kondisi:
+*  Keperluan berubah dengan cepat
+* Tim programmer sedikit, yaitu 5-9 orang
